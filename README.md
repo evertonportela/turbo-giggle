@@ -1,2 +1,2 @@
 # turbo-giggle
-Repositório de Exercícios e Teste - Descompilica Engenharia de Software
+Repositório de Exercícios e Teste - Descomplica Engenharia de Software
