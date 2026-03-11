@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author everton.santos
+ * @author evertonportela
  */
 public class ProjLogicaProgramacao {
 
